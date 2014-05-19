@@ -32,4 +32,3 @@ _url_ [cowsay.org](http://cowsay.org/)
 </li>  
 {% endfor %}  
 </ul>
-

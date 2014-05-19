@@ -44,13 +44,6 @@ Designing an effective load balancing algorithm is crucial, as the benefits of a
 quickly diminish with the extra overhead incurred by a poorly designed load balancing scheme. 
 
 
-{% highlight C linenos %}
-int main(void) {
-printf("Hello world");
-}
-
-{% endhighlight %}
-
 ### 3 Push/pull migration schemes for load balancing  
 
 <p align="center">

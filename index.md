@@ -12,7 +12,7 @@ tagline: Supporting tagline
 
 Hello!
 
-My name is Jessica. I'm a nth year CS major at UC Berkeley.  
+My name is Jessica. I'm a nth year computer science major at UC Berkeley.  
 This is where you'll find my notes, ramblings, and random tirades.
 </div>
 

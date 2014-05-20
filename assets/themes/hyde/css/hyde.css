@@ -61,6 +61,9 @@ html {
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
+.sidebar_image {
+    margin: auto;
+}
 @media (min-width: 48rem) {
   .sidebar {
     position: fixed;
@@ -69,6 +72,9 @@ html {
     bottom: 0;
     width: 16rem;
     text-align: left;
+  }
+  .sidebar_image {
+      float: left;
   }
 }
 

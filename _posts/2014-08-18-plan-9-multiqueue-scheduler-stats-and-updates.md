@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-After much bug and bottleneck hunting, I've finally finished implementing the MQS scheduler I originally described [here](http://cowsay.org/).
+After much bug and bottleneck hunting, I've finally finished implementing the MQS scheduler I originally described [here](http://flaming-toast.github.io/gsoc14/2014/05/17/a-multi%E2%80%93queue-scheduler-for-plan-9).
 
 Here's a brief summary of changes made to the original 9atom scheduler, which used a single, global run queue to distribute processes to CPUs.
 
